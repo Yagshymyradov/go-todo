@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build directories
+/bin/
+/dist/
+/pkg/
+
+# Go covorage
+*.cover
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dependency management
+vendor/
+
+# macOS service files
+.DS_Store
